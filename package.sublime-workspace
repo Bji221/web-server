@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"log"
+			],
+			[
+				"c",
+				"currentweather"
+			],
+			[
+				"get",
+				"getWeather"
+			],
+			[
+				"re",
+				"resolve"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"enc",
+				"encrytpedAccounts"
+			],
+			[
+				"de",
+				"decrypt"
+			],
+			[
+				"m",
+				"masterpwd"
+			],
+			[
+				"sec",
+				"secretKey"
+			],
+			[
+				"getA",
+				"getAccounts"
+			],
+			[
+				"cr",
+				"crypto"
+			],
+			[
+				"acc",
+				"accounts"
+			],
+			[
+				"mas",
+				"masterpwd"
+			],
+			[
+				"en",
+				"encryptedMessage"
+			],
+			[
+				"se",
+				"secretKey"
+			],
+			[
+				"a",
+				"animalString"
+			],
+			[
+				"animal",
+				"animalObject"
+			],
+			[
+				"ani",
+				"animalObject"
+			],
+			[
+				"pers",
+				"personJson"
+			],
+			[
+				"pe",
+				"personJson"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ma",
+				"matchedAccount"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"B",
+				"Balaji"
+			],
+			[
+				"crea",
+				"createAccount"
+			],
+			[
+				"with",
+				"withdraw"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Bala/Desktop/node-course/async1/ex-promise.js",
+		"/C/Users/Bala/Desktop/node-course/async1/location-p.js",
+		"/C/Users/Bala/Desktop/node-course/async1/weather-p.js",
+		"/C/Users/Bala/Desktop/node-course/async1/app-p.js",
+		"/C/Users/Bala/Desktop/node-course/async1/ex-promise-1.js",
+		"/C/Users/Bala/Downloads/node-5-8-weather-app-3/node-5-8-weather-app-3/app.js",
+		"/C/Users/Bala/Downloads/node-5-8-weather-app-3/node-5-8-weather-app-3/location.js",
+		"/C/Users/Bala/Desktop/node-course/async1/app.js",
+		"/C/Users/Bala/Desktop/node-course/async1/location.js",
+		"/C/Users/Bala/Desktop/node-course/async1/weather.js",
+		"/C/Users/Bala/Desktop/node-course/basics/bank-account3",
+		"/C/Users/Bala/Desktop/node-course/basics/bank-account2.js",
+		"/C/Users/Bala/Desktop/node-course/basics/bank-account.js",
+		"/C/Users/Bala/Desktop/node-course/async/weather.js",
+		"/C/Users/Bala/Desktop/node-course/async/ex-callback.js",
+		"/C/Users/Bala/Desktop/node-course/async1/example-callback.js",
+		"/C/Users/Bala/Desktop/node-course/async/hellp-async.js",
+		"/C/Users/Bala/Desktop/node-course/async/app.js",
+		"/C/Users/Bala/Desktop/node-course/password-manager/app.js",
+		"/C/Users/Bala/Desktop/node-course/async/location.js",
+		"/C/Users/Bala/Desktop/node-course/async/package.json",
+		"/C/Users/Bala/Desktop/node-course/basics/ex-try-catch.js",
+		"/C/Users/Bala/Downloads/4-10-password-project-3/4-10-password-project-3/app.js",
+		"/C/Users/Bala/Desktop/node-course/password-manager/package.json",
+		"/C/Users/Bala/Desktop/node-course/password-manager/persist/accounts",
+		"/C/Users/Bala/Desktop/node-course/password-manager/ex-encryption.js",
+		"/C/Users/Bala/Downloads/4-9-encryption/4-9-encryption/example-encryption.js",
+		"/C/Users/Bala/Downloads/4-9-encryption.zip",
+		"/C/Users/Bala/Desktop/node-course/basics/example-json.js",
+		"/C/Users/Bala/Desktop/node-course/password-manager/example-yargs.js",
+		"/C/Users/Bala/Desktop/node-course/basics/closure.js",
+		"/C/Users/Bala/Desktop/node-course/password-manager/4-5-yargs-options/4-5-yargs-options/example-args.js",
+		"/C/Users/Bala/Desktop/node-course/bank-account3",
+		"/C/Users/Bala/Desktop/node-course/closure.js",
+		"/C/Users/Bala/Desktop/node-course/bank-account2.js",
+		"/C/Users/Bala/Desktop/node-course/bank-account.js",
+		"/C/Users/Bala/Desktop/node-course/helloworld.js",
+		"/C/Users/Bala/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"callback",
+			"false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
